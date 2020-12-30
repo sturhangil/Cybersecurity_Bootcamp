@@ -65,7 +65,8 @@ The playbook implements the following tasks:
 - download and launch a docker elk container
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-Images/Project1_D1_P4.png
+
+![alt text](https://github.com/sturhangil/Cybersecurity_Bootcamp/blob/main/Images/Project1_D1_P4.png "Logo Title Text 1")
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
