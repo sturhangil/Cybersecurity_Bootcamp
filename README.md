@@ -2,9 +2,9 @@
 
 The files in this repository were used to configure the network depicted below.
 
-Images/Project1_D1_P4.png
+Images/Saim_Turhangil_Project_1.png
 
-Cybersecurity_Bootcamp/Images/Saim_Turhangil_Project_1.png
+https://github.com/sturhangil/Cybersecurity_Bootcamp/blob/main/Images/Saim_Turhangil_Project_1.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the filebeat-playbook.yml file may be used to install only certain pieces of it, such as Filebeat.
 
