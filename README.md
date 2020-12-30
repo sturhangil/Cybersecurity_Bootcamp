@@ -77,7 +77,8 @@ We have installed the following Beats on these machines:
 - Filebeat
 
 These Beats allow us to collect the following information from each machine:
-- Filebeat: Filebeat allows us to collect log events which helps us to track any suspicious activities.
+- Filebeat: Filebeat allows us to move the log files from one place to another. By this way, the collected log data can be analyzed by Logstash or Elasticsearch.
+
 
 ### Using the Playbook
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
